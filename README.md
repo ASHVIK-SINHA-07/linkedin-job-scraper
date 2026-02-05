@@ -75,7 +75,7 @@ Scraping jobs: |████████████████████| 25
 ### Terminal Output
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ASHVIK-SINHA-07/linkedin-job-scraper/main/screenshots/terminal_running.png" alt="Terminal Screenshot" width="700">
+  <img src="https://github.com/ASHVIK-SINHA-07/linkedin-job-scraper/blob/main/screenshots/Screenshot-demo-1.png" alt="Terminal Screenshot" width="700">
 </p>
 
 *The scraper in action - extracting 100+ jobs with real-time progress tracking*
