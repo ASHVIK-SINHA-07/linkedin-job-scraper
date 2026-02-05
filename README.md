@@ -1,4 +1,4 @@
--  LinkedIn Job Scraper v2.0
+-> LinkedIn Job Scraper v2.0
 
 A production-ready, cross-platform Python script to scrape job listings from LinkedIn's public job board and export them to CSV/JSON format.
 
