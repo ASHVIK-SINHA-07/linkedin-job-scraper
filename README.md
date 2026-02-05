@@ -83,7 +83,7 @@ Scraping jobs: |████████████████████| 25
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ASHVIK-SINHA-07/linkedin-job-scraper/main/screenshots/csv_output.png" alt="CSV Screenshot" width="700">
+  <img src="https://github.com/ASHVIK-SINHA-07/linkedin-job-scraper/blob/main/screenshots/Screenshot-demo.png" alt="CSV Screenshot" width="700">
 </p>
 
 *Clean, organized data ready for Excel or Google Sheets*
