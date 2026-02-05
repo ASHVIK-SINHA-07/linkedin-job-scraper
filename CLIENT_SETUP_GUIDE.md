@@ -1289,7 +1289,7 @@ Here's a quick recap of what you can do now:
 *Made with ❤️ to help job seekers everywhere*
 
 ---
-
+~~Ashvik Sinha
 *Last updated: February 2026*
 
 </div>
