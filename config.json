@@ -1,0 +1,14 @@
+{
+  "default_location": "India",
+  "default_num_jobs": 50,
+  "max_jobs_limit": 500,
+  "output_folder": "job_results",
+  "delay_between_requests": 2.5,
+  "max_retries": 3,
+  "timeout_seconds": 30,
+  "save_to_downloads": true,
+  "export_json": false,
+  "show_progress_bar": true,
+  "log_to_file": true,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+}
