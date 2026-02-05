@@ -72,8 +72,8 @@ Scraping jobs: |████████████████████| 25
 | Business Data Analyst | Amazon | Brooklyn, NY | 3 days ago |
 
 <!--  
-![Screenshot](screenshots/Screenshot-demo-1.png)
-![Screenshot](screenshots/Screenshot-demo.png)
+![Screenshot1](screenshots/Screenshot-demo-1.png)
+![Screenshot2](screenshots/Screenshot-demo.png)
 -->
 
 ## 🚀 Quick Start
