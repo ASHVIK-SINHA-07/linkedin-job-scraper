@@ -71,10 +71,22 @@ Scraping jobs: |████████████████████| 25
 | Senior Data Analyst | Meta | New York, NY | 1 week ago |
 | Business Data Analyst | Amazon | Brooklyn, NY | 3 days ago |
 
-<!--  
-!(screenshots/Screenshot-demo-1.png)
-!(screenshots/Screenshot-demo.png)
--->
+
+### Terminal Output
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASHVIK-SINHA-07/linkedin-job-scraper/main/screenshots/terminal_running.png" alt="Terminal Screenshot" width="700">
+</p>
+
+*The scraper in action - extracting 100+ jobs with real-time progress tracking*
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASHVIK-SINHA-07/linkedin-job-scraper/main/screenshots/csv_output.png" alt="CSV Screenshot" width="700">
+</p>
+
+*Clean, organized data ready for Excel or Google Sheets*
 
 ## 🚀 Quick Start
 
