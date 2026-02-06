@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/github/last-commit/ASHVIK-SINHA-07/linkedin-job-scraper?style=for-the-badge" alt="Last Commit">
 </p>
 
-> 🚀 **Built by [Ashvik Sinha](https://github.com/ASHVIK-SINHA-07)**  | [LinkedIn](www.linkedin.com/in/ashvik-sinha)
+> 🚀 **Built by [Ashvik Sinha](https://github.com/ASHVIK-SINHA-07)**  | **[LinkedIn](https://linkedin.com/in/ashvik-sinha)**
 
 ---
 
