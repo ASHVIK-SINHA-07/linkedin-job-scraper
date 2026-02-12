@@ -559,66 +559,12 @@ If this project helped you, please consider giving it a ⭐!
 
 ---
 
-## 💰 Need This Customized?
-
-I can adapt this scraper for your specific needs:
-
-### Basic Customization - ₹2,500
-- Filter by specific criteria (remote, salary range, etc.)
-- Export to different formats (JSON, Excel with formatting)
-- Scheduled runs (daily/weekly automation)
-- **Delivery:** 24-48 hours
-
-### Advanced Features - ₹5,000 - ₹8,000
-- Scrape job descriptions (full text)
-- Multi-platform scraping (Indeed, Naukri, LinkedIn)
-- Email notifications for new jobs
-- Web interface (no command line needed)
-- **Delivery:** 3-5 days
-
-### Enterprise Solution - ₹15,000+
-- Full dashboard with analytics
-- Database integration (store historical data)
-- API for your systems to integrate
-- Team training and documentation
-- **Delivery:** 1-2 weeks
-
-**All projects include:**
-✅ Clean, documented code
-✅ Setup assistance
-✅ 7-day bug fix guarantee
-✅ Source code ownership
-
-📧 **Get a Quote:** [ashviksinha3001@gmail.com]
-
-
-**Why pricing transparency works:**
-- Pre-qualifies clients (serious buyers self-select)
-- Shows you're professional (not just a hobbyist)
-- Gives clients a starting point for budgeting
-- Reduces back-and-forth ("How much does this cost?")
-
----
-
-
 ## 👨‍💻 About the Developer
 
 Built by **Ashvik Sinha** - BTech CSE student @ Bennett University specializing in Python automation and web scraping.
 
-### 💼 Available for Freelance Projects
 
-I build Python automation tools, web scrapers, and data extraction solutions for businesses and individuals.
-
-**Services I Offer:**
-- 🔧 Custom web scraping solutions (LinkedIn, e-commerce, job boards)
-- 📊 Data extraction and CSV/Excel automation
-- 🤖 Chatbot development (WhatsApp, Telegram, Discord)
-- ⚙️ Workflow automation (save 10+ hours/week)
-- 📈 API integrations and data pipelines
-
-**Pricing:** ₹2,500 - ₹15,000 depending on complexity
-
-### 📬 Contact Me
+I build Python automation solutions. If you need something similar or want to collaborate:
 
 - 📧 **Email:** [ashviksinha3001@gmail.com] 
 - 🔗 **LinkedIn:** [<https://linkedin.com/in/ashvik-sinha)>] 
