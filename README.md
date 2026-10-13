@@ -550,6 +550,7 @@ If you encounter issues:
    - Your OS and Python version
    - The error message
    - Steps to reproduce
+More updates coming soon!
 
 ---
 
